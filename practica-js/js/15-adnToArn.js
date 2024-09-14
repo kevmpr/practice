@@ -6,6 +6,7 @@
 // A -> U
 
 // escribe tu función acá
+//main function (by me and ia) ===> ganadora
 const transcribir = (adn) => {
     let arn = "";
     for (let i = 0; i < adn.length; i++) {
